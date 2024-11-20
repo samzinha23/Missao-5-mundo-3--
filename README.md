@@ -17,8 +17,9 @@ Semestre Letivo: 3.
 
 Integrante: Samantha Karina Barbosa Torres.
 
+Repositorio :https://github.com/samzinha23/Missao-5-mundo-3--.git
 
-
+IDE Utilizada: Apache NetBeans.
 
 Implementação de sistema cadastral com interface Web, baseado nas tecnologias de Servlets, JPA e JEE.
 
